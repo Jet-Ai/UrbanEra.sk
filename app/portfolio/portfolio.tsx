@@ -37,7 +37,6 @@ function PortfolioImage({id,label,large=false}:{id:string;label:string;large?:bo
 
 export default function Portfolio() {
   const {localize,locale}=useLanguage();
-  const [active,setActive] = useState<string>('all');
   const [selected,setSelected] = useState(0);
   const [open,setOpen] = useState(false);
   const [video,setVideo] = useState(0);
@@ -50,14 +49,16 @@ export default function Portfolio() {
       <div className="portfolio-counts"><span><strong>05</strong> domov</span><span><strong>20</strong> miestností</span><span><strong>80</strong> vizualizácií</span><a href="#media-section">Videoprehliadky <ArrowUpRight size={18}/></a></div>
     </section>
     <section className="portfolio-browser" aria-label="Galéria projektov">
-      <Tabs value={active} onValueChange={value=>setActive(String(value))}>
-        <div className="portfolio-tab-scroll"><TabsList className="portfolio-tabs" aria-label="Vyberte projekt"><TabsTrigger value="all">Všetky projekty</TabsTrigger>{projects.map((p,i)=><TabsTrigger key={p.id} value={p.id}>Dom 0{i+1}</TabsTrigger>)}</TabsList></div>
-        <TabsContent value="all"><div className="project-overview">{projects.map((p,i)=><article className="project-preview" key={p.id}><button className="project-cover" onClick={()=>setActive(p.id)} aria-label={'Prezrieť Dom 0'+(i+1)}><PortfolioImage id={p.rooms[i===1?3:i===2?3:i===3?3:0].images[0]} label={'Dom 0'+(i+1)+' — interiérový koncept'}/><span className="cover-arrow"><ArrowUpRight/></span></button><div className="project-card-heading"><h2>Dom 0{i+1}</h2><span>04 miestnosti / 16 vizualizácií</span></div><p>{descriptions[i]}</p><Button className="project-open" variant="link" onClick={()=>setActive(p.id)}>Prezrieť projekt <ArrowRight size={18}/></Button></article>)}</div></TabsContent>
-        <Dialog open={open} onOpenChange={setOpen}>
-          {projects.map((project,p)=><TabsContent value={project.id} key={project.id}>
-            <div className="project-detail-heading"><div><span className="eyebrow">REZIDENČNÝ KONCEPT</span><h2>Dom 0{p+1}</h2><p>{descriptions[p]}</p></div><a className="text-link" href={'https://drive.google.com/drive/folders/'+project.id} target="_blank" rel="noreferrer">Priečinok projektu <ArrowUpRight size={18}/></a></div>
-            {project.rooms.map(room=><section className="room-section" key={room.name}><h3>{roomLabels[room.name]||room.name}<span>04 pohľady</span></h3><div className="room-gallery">{room.images.map((id,i)=><DialogTrigger key={id} className="room-image" onClick={()=>setSelected(items.findIndex(item=>item.id===id))} aria-label={'Zväčšiť: Dom 0'+(p+1)+' — '+(roomLabels[room.name]||room.name)+' '+(i+1)}><PortfolioImage id={id} label={'Dom 0'+(p+1)+' — '+(roomLabels[room.name]||room.name)+' '+(i+1)}/><span><Expand size={18}/></span></DialogTrigger>)}</div></section>)}
-          </TabsContent>)}
+      <Dialog open={open} onOpenChange={setOpen}>
+        <div className="native-projects">{projects.map((project,p)=><details className="native-project" key={project.id}>
+          <summary>
+            <span className="project-cover"><PortfolioImage id={project.rooms[0].images[0]} label={'Dom 0'+(p+1)+' — interiérový koncept'}/></span>
+            <span className="project-card-heading"><strong>Dom 0{p+1}</strong><span>04 miestnosti / 16 vizualizácií</span></span>
+            <span className="project-open">Prezrieť projekt <ArrowRight size={18}/></span>
+          </summary>
+          <div className="project-detail-heading"><p>{descriptions[p]}</p><a className="text-link" href={'https://drive.google.com/drive/folders/'+project.id} target="_blank" rel="noreferrer">Priečinok projektu <ArrowUpRight size={18}/></a></div>
+          {project.rooms.map(room=><section className="room-section" key={room.name}><h3>{roomLabels[room.name]||room.name}<span>04 pohľady</span></h3><div className="room-gallery">{room.images.map((id,i)=><DialogTrigger key={id} className="room-image" onClick={()=>setSelected(items.findIndex(item=>item.id===id))} aria-label={'Zväčšiť: Dom 0'+(p+1)+' — '+(roomLabels[room.name]||room.name)+' '+(i+1)}><PortfolioImage id={id} label={'Dom 0'+(p+1)+' — '+(roomLabels[room.name]||room.name)+' '+(i+1)}/><span><Expand size={18}/></span></DialogTrigger>)}</div></section>)}
+        </details>)}</div>
           <DialogContent className="portfolio-lightbox" showCloseButton={false} onKeyDown={event=>{if(event.key==='ArrowRight'){event.preventDefault();move(locale==='ar'?-1:1);}if(event.key==='ArrowLeft'){event.preventDefault();move(locale==='ar'?1:-1);}}}>
             <div className="lightbox-top"><DialogTitle>{current.label}</DialogTitle><DialogClose className="lightbox-close" aria-label="Zavrieť galériu"><X size={24}/></DialogClose></div>
             <DialogDescription className="sr-only">Vizualizácia interiéru. Ďalšie zábery zobrazíte šípkami; Escape zatvorí galériu.</DialogDescription>
@@ -65,7 +66,6 @@ export default function Portfolio() {
             <div className="lightbox-bottom"><Button variant="outline" onClick={()=>move(-1)} aria-label="Predchádzajúca vizualizácia"><ArrowLeft/></Button><span aria-live="polite">{selected+1} / {items.length}</span><a href={original(current.id)} target="_blank" rel="noreferrer">Otvoriť originál ↗</a><Button variant="outline" onClick={()=>move(1)} aria-label="Nasledujúca vizualizácia"><ArrowRight/></Button></div>
           </DialogContent>
         </Dialog>
-      </Tabs>
     </section>
     <section className="portfolio-media" id="media-section">
       <div className="section-top"><div className="section-label"><span>02 /</span> V POHYBE</div><h2>Prejdite sa<br/>interiérom.</h2><p>Materiály a detaily<br/>zblízka.</p></div>

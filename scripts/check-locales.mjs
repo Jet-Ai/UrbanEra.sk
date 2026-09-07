@@ -27,6 +27,11 @@ for(const locale of locales){
    const leftovers=chunks.filter(x=>dictionary[x]&&dictionary[x][locale]!==x);
    assert.deepEqual(leftovers,[],path+' untranslated text');
   }
+  if(portfolio){
+   assert.equal((html.match(/<details class="native-project"/g)||[]).length,5,path+' native project controls');
+   assert.ok(html.includes('https://urbanera-sro.netlify.app/#work'),path+' original portfolio link');
+   assert.ok(html.includes('<iframe src="https://urbanera-sro.netlify.app/"'),path+' embedded original portfolio');
+  }
   results.push({path,locale,status:response.status,contact:true});
  }
 }
