@@ -1,0 +1,1010 @@
+{
+  "Nehnuteľnosti": {
+    "en": "Real estate",
+    "tr": "Gayrimenkul",
+    "ru": "Недвижимость",
+    "az": "Daşınmaz əmlak",
+    "ar": "العقارات"
+  },
+  "Priestor pre nové bývanie, podnikanie aj ďalší rozvoj. Každá nehnuteľnosť začína pochopením jej potenciálu.": {
+    "en": "Space for a new home, business and future development. Every property begins with understanding its potential.",
+    "tr": "Yeni bir ev, iş ve gelecekteki gelişim için alan. Her gayrimenkul, potansiyelini anlamakla başlar.",
+    "ru": "Пространство для нового дома, бизнеса и дальнейшего развития. Работа с каждой недвижимостью начинается с понимания её потенциала.",
+    "az": "Yeni ev, biznes və gələcək inkişaf üçün məkan. Hər bir daşınmaz əmlakın inkişafı onun potensialını anlamaqdan başlayır.",
+    "ar": "مساحات للسكن والأعمال والتطوير المستقبلي. يبدأ كل مشروع بفهم إمكانات العقار."
+  },
+  "Development": {
+    "en": "Property development",
+    "tr": "Gayrimenkul geliştirme",
+    "ru": "Девелопмент",
+    "az": "Əmlak layihələrinin inkişafı",
+    "ar": "التطوير العقاري"
+  },
+  "Od prvého zámeru k ucelenému projektu. Architektúra, funkčnosť a vzťah k okoliu v jednom celku.": {
+    "en": "From the first idea to a coherent project. Architecture, function and surroundings considered together.",
+    "tr": "İlk fikirden bütünlüklü bir projeye. Mimari, işlevsellik ve çevreyle ilişkiyi birlikte ele alıyoruz.",
+    "ru": "От первого замысла до целостного проекта. Архитектура, функциональность и связь с окружением в едином решении.",
+    "az": "İlk ideyadan bütöv layihəyə. Memarlıq, funksionallıq və ətraf mühitlə əlaqə birlikdə nəzərə alınır.",
+    "ar": "من الفكرة الأولى إلى مشروع متكامل يجمع العمارة والوظيفة والانسجام مع المحيط."
+  },
+  "Výstavba": {
+    "en": "Construction",
+    "tr": "İnşaat",
+    "ru": "Строительство",
+    "az": "Tikinti",
+    "ar": "البناء"
+  },
+  "Premena plánov na skutočný priestor. S dôrazom na premyslené riešenia, materiály a každý detail.": {
+    "en": "Turning plans into real spaces, with attention to thoughtful solutions, materials and every detail.",
+    "tr": "Planları gerçek mekânlara dönüştürüyoruz. Özenle düşünülmüş çözümlere, malzemelere ve her ayrıntıya odaklanıyoruz.",
+    "ru": "Воплощение планов в реальном пространстве. Внимание к продуманным решениям, материалам и каждой детали.",
+    "az": "Planları real məkanlara çeviririk. Düşünülmüş həllərə, materiallara və hər bir detala diqqət yetiririk.",
+    "ar": "نحوّل المخططات إلى مساحات حقيقية، مع الاهتمام بالحلول المدروسة والمواد وكل التفاصيل."
+  },
+  "Preskočiť na obsah": {
+    "en": "Skip to content",
+    "tr": "İçeriğe geç",
+    "ru": "Перейти к содержимому",
+    "az": "Məzmuna keç",
+    "ar": "انتقل إلى المحتوى"
+  },
+  "UrbanEra — úvod": {
+    "en": "UrbanEra — home",
+    "tr": "UrbanEra — ana sayfa",
+    "ru": "UrbanEra — главная",
+    "az": "UrbanEra — ana səhifə",
+    "ar": "UrbanEra — الرئيسية"
+  },
+  "Hlavná navigácia": {
+    "en": "Main navigation",
+    "tr": "Ana gezinme",
+    "ru": "Основная навигация",
+    "az": "Əsas naviqasiya",
+    "ar": "التنقل الرئيسي"
+  },
+  "O nás": {
+    "en": "About us",
+    "tr": "Hakkımızda",
+    "ru": "О нас",
+    "az": "Haqqımızda",
+    "ar": "من نحن"
+  },
+  "Naše zameranie": {
+    "en": "Our expertise",
+    "tr": "Faaliyet alanlarımız",
+    "ru": "Наши направления",
+    "az": "Fəaliyyət sahələrimiz",
+    "ar": "مجالات عملنا"
+  },
+  "Portfólio": {
+    "en": "Portfolio",
+    "tr": "Portföy",
+    "ru": "Портфолио",
+    "az": "Portfolio",
+    "ar": "أعمالنا"
+  },
+  "Prezrieť projekty": {
+    "en": "Explore projects",
+    "tr": "Projeleri inceleyin",
+    "ru": "Смотреть проекты",
+    "az": "Layihələrə baxın",
+    "ar": "استكشف المشاريع"
+  },
+  "NEHNUTEĽNOSTI · DEVELOPMENT · VÝSTAVBA": {
+    "en": "REAL ESTATE · DEVELOPMENT · CONSTRUCTION",
+    "tr": "GAYRİMENKUL · PROJE GELİŞTİRME · İNŞAAT",
+    "ru": "НЕДВИЖИМОСТЬ · ДЕВЕЛОПМЕНТ · СТРОИТЕЛЬСТВО",
+    "az": "DAŞINMAZ ƏMLAK · LAYİHƏ İNKİŞAFI · TİKİNTİ",
+    "ar": "العقارات · التطوير العقاري · البناء"
+  },
+  "Nová éra": {
+    "en": "A new era",
+    "tr": "Mekânda",
+    "ru": "Новая эра",
+    "az": "Məkanın",
+    "ar": "عصر جديد"
+  },
+  "priestoru": {
+    "en": "of space",
+    "tr": "yeni bir dönem",
+    "ru": "пространства",
+    "az": "yeni dövrü",
+    "ar": "للمساحات"
+  },
+  "Za každým priestorom vidíme príležitosť.": {
+    "en": "We see opportunity in every space.",
+    "tr": "Her mekânda bir fırsat görüyoruz.",
+    "ru": "В каждом пространстве мы видим возможности.",
+    "az": "Hər məkanda bir fürsət görürük.",
+    "ar": "نرى فرصة في كل مساحة."
+  },
+  "Pre lepšie bývanie. Pre nové začiatky.": {
+    "en": "For better living. For new beginnings.",
+    "tr": "Daha iyi bir yaşam için. Yeni başlangıçlar için.",
+    "ru": "Для лучшей жизни. Для новых начинаний.",
+    "az": "Daha yaxşı yaşayış üçün. Yeni başlanğıclar üçün.",
+    "ar": "لحياة أفضل. ولبدايات جديدة."
+  },
+  "Architektonický koncept súčasného bývania s priestrannými balkónmi a zeleným vnútroblokom": {
+    "en": "Architectural concept of contemporary homes with spacious balconies and a green courtyard",
+    "tr": "Geniş balkonları ve yeşil avlusuyla çağdaş konut mimarisi konsepti",
+    "ru": "Архитектурная концепция современного жилья с просторными балконами и зелёным двором",
+    "az": "Geniş eyvanları və yaşıllıqlı həyəti olan müasir yaşayış memarlığı konsepsiyası",
+    "ar": "تصور معماري لمساكن عصرية بشرفات واسعة وفناء أخضر"
+  },
+  "PRIESTOR PRE ZAJTRA": {
+    "en": "SPACE FOR TOMORROW",
+    "tr": "YARIN İÇİN MEKÂN",
+    "ru": "ПРОСТРАНСТВО ДЛЯ БУДУЩЕГО",
+    "az": "SABAH ÜÇÜN MƏKAN",
+    "ar": "مساحة للغد"
+  },
+  "Ilustračný architektonický koncept": {
+    "en": "Illustrative architectural concept",
+    "tr": "Temsili mimari konsept",
+    "ru": "Иллюстративная архитектурная концепция",
+    "az": "İllüstrativ memarlıq konsepsiyası",
+    "ar": "تصور معماري توضيحي"
+  },
+  "O SPOLOČNOSTI": {
+    "en": "ABOUT THE COMPANY",
+    "tr": "ŞİRKET HAKKINDA",
+    "ru": "О КОМПАНИИ",
+    "az": "ŞİRKƏT HAQQINDA",
+    "ar": "عن الشركة"
+  },
+  "Priestor má potenciál.": {
+    "en": "Space holds potential.",
+    "tr": "Mekân potansiyel taşır.",
+    "ru": "У пространства есть потенциал.",
+    "az": "Məkanın potensialı var.",
+    "ar": "كل مساحة تحمل إمكانات."
+  },
+  "My v ňom vidíme budúcnosť.": {
+    "en": "We see its future.",
+    "tr": "Biz onun geleceğini görüyoruz.",
+    "ru": "Мы видим в нём будущее.",
+    "az": "Biz onun gələcəyini görürük.",
+    "ar": "ونحن نرى مستقبلها."
+  },
+  "UrbanEra spája svet nehnuteľností, developmentu a výstavby. Na priestor sa pozeráme v súvislostiach — od jeho miesta v okolí až po každodenný život v ňom.": {
+    "en": "UrbanEra brings together real estate, development and construction. We consider each space in context, from its place in the neighbourhood to everyday life within it.",
+    "tr": "UrbanEra, gayrimenkul, proje geliştirme ve inşaatı bir araya getirir. Mekânı, çevresindeki yerinden içindeki günlük yaşama kadar bir bütün olarak ele alıyoruz.",
+    "ru": "UrbanEra объединяет недвижимость, девелопмент и строительство. Мы рассматриваем пространство в контексте: от его места в окружении до повседневной жизни внутри.",
+    "az": "UrbanEra daşınmaz əmlak, layihə inkişafı və tikintini birləşdirir. Məkanı ətrafındakı yerindən oradakı gündəlik həyata qədər bütöv şəkildə qiymətləndiririk.",
+    "ar": "تجمع UrbanEra بين العقارات والتطوير والبناء. ننظر إلى كل مساحة ضمن سياقها، من مكانها في الحي إلى تفاصيل الحياة اليومية فيها."
+  },
+  "Veríme v zmysluplné využitie územia, premyslenú architektúru a riešenia, ktoré majú hodnotu aj s odstupom času.": {
+    "en": "We believe in purposeful land use, thoughtful architecture and solutions that retain their value over time.",
+    "tr": "Arazinin anlamlı kullanımına, düşünülmüş mimariye ve zaman içinde değerini koruyan çözümlere inanıyoruz.",
+    "ru": "Мы верим в разумное использование территории, продуманную архитектуру и решения, сохраняющие ценность со временем.",
+    "az": "Torpaqdan məqsədyönlü istifadəyə, düşünülmüş memarlığa və zamanla dəyərini qoruyan həllərə inanırıq.",
+    "ar": "نؤمن بالاستخدام المدروس للأراضي والعمارة المتقنة والحلول التي تحتفظ بقيمتها مع مرور الوقت."
+  },
+  "NAŠE ZAMERANIE": {
+    "en": "OUR EXPERTISE",
+    "tr": "FAALİYET ALANLARIMIZ",
+    "ru": "НАШИ НАПРАВЛЕНИЯ",
+    "az": "FƏALİYYƏT SAHƏLƏRİMİZ",
+    "ar": "مجالات عملنا"
+  },
+  "Od príležitosti": {
+    "en": "From opportunity",
+    "tr": "Fırsattan",
+    "ru": "От возможности",
+    "az": "Fürsətdən",
+    "ar": "من الفرصة"
+  },
+  "k realizácii.": {
+    "en": "to reality.",
+    "tr": "gerçeğe.",
+    "ru": "к воплощению.",
+    "az": "reallığa.",
+    "ar": "إلى التنفيذ."
+  },
+  "Tri oblasti.": {
+    "en": "Three disciplines.",
+    "tr": "Üç alan.",
+    "ru": "Три направления.",
+    "az": "Üç sahə.",
+    "ar": "ثلاثة مجالات."
+  },
+  "Jeden ucelený pohľad.": {
+    "en": "One coherent vision.",
+    "tr": "Tek bir bütüncül bakış.",
+    "ru": "Единый целостный взгляд.",
+    "az": "Bir bütöv baxış.",
+    "ar": "ورؤية متكاملة."
+  },
+  "PORTFÓLIO INTERIÉROV": {
+    "en": "INTERIOR PORTFOLIO",
+    "tr": "İÇ MEKÂN PORTFÖYÜ",
+    "ru": "ПОРТФОЛИО ИНТЕРЬЕРОВ",
+    "az": "İNTERYER PORTFOLİOSU",
+    "ar": "أعمال التصميم الداخلي"
+  },
+  "Veľké predstavy.": {
+    "en": "Big ideas.",
+    "tr": "Büyük fikirler.",
+    "ru": "Большие идеи.",
+    "az": "Böyük ideyalar.",
+    "ar": "أفكار كبيرة."
+  },
+  "Premyslené detaily.": {
+    "en": "Thoughtful details.",
+    "tr": "Düşünülmüş detaylar.",
+    "ru": "Продуманные детали.",
+    "az": "Düşünülmüş detallar.",
+    "ar": "وتفاصيل مدروسة."
+  },
+  "Päť rezidenčných konceptov. Osemdesiat vizualizácií.": {
+    "en": "Five residential concepts. Eighty visualisations.",
+    "tr": "Beş konut konsepti. Seksen görselleştirme.",
+    "ru": "Пять жилых концепций. Восемьдесят визуализаций.",
+    "az": "Beş yaşayış konsepsiyası. Səksən vizuallaşdırma.",
+    "ar": "خمسة تصورات سكنية. وثمانون صورة تصورية."
+  },
+  "Objavte naše interiéry od prvého pohľadu po posledný detail.": {
+    "en": "Explore our interiors, from the first impression to the smallest detail.",
+    "tr": "İlk bakıştan en küçük ayrıntıya kadar iç mekânlarımızı keşfedin.",
+    "ru": "Откройте наши интерьеры: от первого впечатления до мельчайших деталей.",
+    "az": "İlk təəssüratdan ən kiçik detala qədər interyerlərimizi kəşf edin.",
+    "ar": "اكتشف تصاميمنا الداخلية، من الانطباع الأول إلى أدق التفاصيل."
+  },
+  "Objaviť portfólio": {
+    "en": "Explore the portfolio",
+    "tr": "Portföyü keşfedin",
+    "ru": "Открыть портфолио",
+    "az": "Portfolioya baxın",
+    "ar": "استكشف أعمالنا"
+  },
+  "Prezrieť portfólio interiérov": {
+    "en": "View the interior portfolio",
+    "tr": "İç mekân portföyünü inceleyin",
+    "ru": "Смотреть портфолио интерьеров",
+    "az": "İnteryer portfoliosuna baxın",
+    "ar": "اطّلع على أعمال التصميم الداخلي"
+  },
+  "UrbanEra — koncept vstupnej haly z portfólia Dom 01": {
+    "en": "UrbanEra — entrance hall concept from House 01",
+    "tr": "UrbanEra — Ev 01 portföyünden giriş holü konsepti",
+    "ru": "UrbanEra — концепция прихожей проекта «Дом 01»",
+    "az": "UrbanEra — Ev 01 layihəsindən giriş zalı konsepsiyası",
+    "ar": "UrbanEra — تصور بهو المدخل من مشروع المنزل 01"
+  },
+  "NÁŠ PRÍSTUP": {
+    "en": "OUR APPROACH",
+    "tr": "YAKLAŞIMIMIZ",
+    "ru": "НАШ ПОДХОД",
+    "az": "YANAŞMAMIZ",
+    "ar": "نهجنا"
+  },
+  "Dobré projekty začínajú": {
+    "en": "Good projects start",
+    "tr": "İyi projeler",
+    "ru": "Хорошие проекты начинаются",
+    "az": "Yaxşı layihələr",
+    "ar": "تبدأ المشاريع الجيدة"
+  },
+  "správnymi otázkami.": {
+    "en": "with the right questions.",
+    "tr": "doğru sorularla başlar.",
+    "ru": "с правильных вопросов.",
+    "az": "düzgün suallardan başlayır.",
+    "ar": "بالأسئلة الصحيحة."
+  },
+  "Miesto a jeho možnosti": {
+    "en": "A place and its possibilities",
+    "tr": "Mekân ve olanakları",
+    "ru": "Место и его возможности",
+    "az": "Məkan və onun imkanları",
+    "ar": "المكان وإمكاناته"
+  },
+  "Čo lokalita potrebuje? Aký priestor tu dáva zmysel? Začíname kontextom, aby návrh prirodzene zapadol do svojho okolia.": {
+    "en": "What does the location need? What kind of space belongs here? We start with context so the design fits naturally into its surroundings.",
+    "tr": "Bölgenin neye ihtiyacı var? Burada nasıl bir mekân anlamlı olur? Tasarımın çevresine doğal biçimde uyum sağlaması için bağlamdan başlıyoruz.",
+    "ru": "Что нужно этому месту? Какое пространство здесь уместно? Мы начинаем с контекста, чтобы проект естественно вписался в окружение.",
+    "az": "Bu ərazinin nəyə ehtiyacı var? Burada hansı məkan məqsədəuyğundur? Layihənin ətrafa təbii uyğunlaşması üçün kontekstdən başlayırıq.",
+    "ar": "ما الذي يحتاجه الموقع؟ وما نوع المساحة المناسبة له؟ نبدأ بفهم السياق ليَنسجم التصميم طبيعياً مع محيطه."
+  },
+  "Premyslený celok": {
+    "en": "A thoughtful whole",
+    "tr": "Düşünülmüş bir bütün",
+    "ru": "Продуманное целое",
+    "az": "Düşünülmüş bütövlük",
+    "ar": "تكامل مدروس"
+  },
+  "Prepájame architektonický zámer s praktickým využitím. Dispozícia, materiály aj detaily musia fungovať spoločne.": {
+    "en": "We connect architectural intent with practical use. Layout, materials and details must work together.",
+    "tr": "Mimari vizyonu pratik kullanımla birleştiriyoruz. Plan, malzemeler ve detaylar birlikte çalışmalıdır.",
+    "ru": "Мы соединяем архитектурный замысел с практическим использованием. Планировка, материалы и детали должны работать вместе.",
+    "az": "Memarlıq ideyasını praktik istifadə ilə birləşdiririk. Planlaşdırma, materiallar və detallar birlikdə işləməlidir.",
+    "ar": "نربط الرؤية المعمارية بالاستخدام العملي، بحيث يعمل توزيع المساحات والمواد والتفاصيل بتناغم."
+  },
+  "Hodnota do budúcnosti": {
+    "en": "Lasting value",
+    "tr": "Geleceğe değer",
+    "ru": "Ценность на будущее",
+    "az": "Gələcək üçün dəyər",
+    "ar": "قيمة تدوم"
+  },
+  "Pozeráme sa za horizont dokončenia stavby. Na to, ako sa bude priestor používať, udržiavať a meniť v čase.": {
+    "en": "We look beyond completion: how a space will be used, maintained and adapted over time.",
+    "tr": "İnşaatın tamamlanmasının ötesine bakıyoruz: mekânın zamanla nasıl kullanılacağına, korunacağına ve değişeceğine.",
+    "ru": "Мы смотрим дальше завершения строительства: как пространство будет использоваться, обслуживаться и меняться со временем.",
+    "az": "Tikintinin tamamlanmasından sonranı düşünürük: məkanın necə istifadə olunacağını, saxlanılacağını və zamanla dəyişəcəyini.",
+    "ar": "ننظر إلى ما بعد اكتمال البناء: كيف ستُستخدم المساحة وتُصان وتتطور مع الوقت."
+  },
+  "Budúcnosť má": {
+    "en": "The future has",
+    "tr": "Geleceğin",
+    "ru": "У будущего есть",
+    "az": "Gələcəyin",
+    "ar": "للمستقبل"
+  },
+  "svoje miesto": {
+    "en": "a place",
+    "tr": "bir yeri var",
+    "ru": "своё место",
+    "az": "öz yeri var",
+    "ar": "مكانه"
+  },
+  "Späť na začiatok": {
+    "en": "Back to top",
+    "tr": "Başa dön",
+    "ru": "Наверх",
+    "az": "Yuxarı qayıt",
+    "ar": "العودة إلى الأعلى"
+  },
+  "Nehnuteľnosti. Development. Výstavba.": {
+    "en": "Real estate. Development. Construction.",
+    "tr": "Gayrimenkul. Proje geliştirme. İnşaat.",
+    "ru": "Недвижимость. Девелопмент. Строительство.",
+    "az": "Daşınmaz əmlak. Layihə inkişafı. Tikinti.",
+    "ar": "العقارات. التطوير العقاري. البناء."
+  },
+  "Päť rezidenčných konceptov UrbanEra. Galérie miestností, 80 vizualizácií, štyri videá a projektová dokumentácia na jednom mieste.": {
+    "en": "Five UrbanEra residential concepts. Room galleries, 80 visualisations, four videos and project documentation in one place.",
+    "tr": "Beş UrbanEra konut konsepti. Oda galerileri, 80 görselleştirme, dört video ve proje belgeleri tek yerde.",
+    "ru": "Пять жилых концепций UrbanEra. Галереи комнат, 80 визуализаций, четыре видео и проектная документация в одном месте.",
+    "az": "Beş UrbanEra yaşayış konsepsiyası. Otaq qalereyaları, 80 vizuallaşdırma, dörd video və layihə sənədləri bir yerdə.",
+    "ar": "خمسة تصورات سكنية من UrbanEra. معارض الغرف و80 صورة تصورية وأربعة فيديوهات ووثائق المشاريع في مكان واحد."
+  },
+  "O spoločnosti": {
+    "en": "About the company",
+    "tr": "Şirket hakkında",
+    "ru": "О компании",
+    "az": "Şirkət haqqında",
+    "ar": "عن الشركة"
+  },
+  "Videá a PDF": {
+    "en": "Videos & PDFs",
+    "tr": "Videolar ve PDF",
+    "ru": "Видео и PDF",
+    "az": "Videolar və PDF",
+    "ar": "الفيديوهات وملفات PDF"
+  },
+  "Kompletný archív": {
+    "en": "Full archive",
+    "tr": "Tüm arşiv",
+    "ru": "Полный архив",
+    "az": "Tam arxiv",
+    "ar": "الأرشيف الكامل"
+  },
+  "Nehnuteľnosti. Development. Výstavba. Interiéry.": {
+    "en": "Real estate. Development. Construction. Interiors.",
+    "tr": "Gayrimenkul. Proje geliştirme. İnşaat. İç mekânlar.",
+    "ru": "Недвижимость. Девелопмент. Строительство. Интерьеры.",
+    "az": "Daşınmaz əmlak. Layihə inkişafı. Tikinti. İnteryerlər.",
+    "ar": "العقارات. التطوير العقاري. البناء. التصميم الداخلي."
+  },
+  "Pôvodné portfólio ↗": {
+    "en": "Original portfolio ↗",
+    "tr": "Orijinal portföy ↗",
+    "ru": "Исходное портфолио ↗",
+    "az": "İlkin portfolio ↗",
+    "ar": "معرض الأعمال الأصلي ↗"
+  },
+  "Vstupná hala": {
+    "en": "Entrance hall",
+    "tr": "Giriş holü",
+    "ru": "Прихожая",
+    "az": "Giriş zalı",
+    "ar": "بهو المدخل"
+  },
+  "Hlavná spálňa": {
+    "en": "Main bedroom",
+    "tr": "Ana yatak odası",
+    "ru": "Главная спальня",
+    "az": "Əsas yataq otağı",
+    "ar": "غرفة النوم الرئيسية"
+  },
+  "Kuchyňa": {
+    "en": "Kitchen",
+    "tr": "Mutfak",
+    "ru": "Кухня",
+    "az": "Mətbəx",
+    "ar": "المطبخ"
+  },
+  "Detská izba": {
+    "en": "Children’s room",
+    "tr": "Çocuk odası",
+    "ru": "Детская комната",
+    "az": "Uşaq otağı",
+    "ar": "غرفة الأطفال"
+  },
+  "Chlapčenská izba": {
+    "en": "Boy’s room",
+    "tr": "Erkek çocuk odası",
+    "ru": "Комната мальчика",
+    "az": "Oğlan uşağı üçün otaq",
+    "ar": "غرفة الصبي"
+  },
+  "Kúpeľňa": {
+    "en": "Bathroom",
+    "tr": "Banyo",
+    "ru": "Ванная комната",
+    "az": "Hamam otağı",
+    "ar": "الحمّام"
+  },
+  "Obývacia izba": {
+    "en": "Living room",
+    "tr": "Oturma odası",
+    "ru": "Гостиная",
+    "az": "Qonaq otağı",
+    "ar": "غرفة المعيشة"
+  },
+  "Chodba": {
+    "en": "Hallway",
+    "tr": "Koridor",
+    "ru": "Коридор",
+    "az": "Dəhliz",
+    "ar": "الممر"
+  },
+  "Spálňa 01": {
+    "en": "Bedroom 01",
+    "tr": "Yatak odası 01",
+    "ru": "Спальня 01",
+    "az": "Yataq otağı 01",
+    "ar": "غرفة النوم 01"
+  },
+  "Spálňa 02": {
+    "en": "Bedroom 02",
+    "tr": "Yatak odası 02",
+    "ru": "Спальня 02",
+    "az": "Yataq otağı 02",
+    "ar": "غرفة النوم 02"
+  },
+  "Ucelený koncept bývania so vstupnou halou, hlavnou spálňou, kuchyňou a detskou izbou.": {
+    "en": "A complete home concept with an entrance hall, main bedroom, kitchen and children’s room.",
+    "tr": "Giriş holü, ana yatak odası, mutfak ve çocuk odasından oluşan bütünlüklü bir konut konsepti.",
+    "ru": "Целостная концепция дома с прихожей, главной спальней, кухней и детской комнатой.",
+    "az": "Giriş zalı, əsas yataq otağı, mətbəx və uşaq otağını əhatə edən bütöv yaşayış konsepsiyası.",
+    "ar": "تصور سكني متكامل يضم بهو المدخل وغرفة النوم الرئيسية والمطبخ وغرفة الأطفال."
+  },
+  "Rodinné bývanie s výraznou obývacou izbou, dvoma spálňami a premyslenými detailmi kúpeľne.": {
+    "en": "A family home with a distinctive living room, two bedrooms and thoughtful bathroom details.",
+    "tr": "Dikkat çekici bir oturma odası, iki yatak odası ve özenli banyo detaylarına sahip aile evi.",
+    "ru": "Семейный дом с выразительной гостиной, двумя спальнями и продуманными деталями ванной.",
+    "az": "Fərqli qonaq otağı, iki yataq otağı və düşünülmüş hamam detalları olan ailə evi.",
+    "ar": "منزل عائلي بغرفة معيشة مميزة وغرفتي نوم وتفاصيل حمّام مدروسة."
+  },
+  "Svetlé priestory prepájajúce chodbu, kuchyňu, detskú izbu a kúpeľňu.": {
+    "en": "Bright spaces connecting the hallway, kitchen, children’s room and bathroom.",
+    "tr": "Koridor, mutfak, çocuk odası ve banyoyu birleştiren aydınlık mekânlar.",
+    "ru": "Светлые пространства, объединяющие коридор, кухню, детскую и ванную.",
+    "az": "Dəhliz, mətbəx, uşaq otağı və hamamı birləşdirən işıqlı məkanlar.",
+    "ar": "مساحات مشرقة تربط الممر والمطبخ وغرفة الأطفال والحمّام."
+  },
+  "Dve odlišné spálne, obývacia izba a kúpeľňa v jednom rezidenčnom koncepte.": {
+    "en": "Two distinct bedrooms, a living room and bathroom within one residential concept.",
+    "tr": "Tek bir konut konseptinde iki farklı yatak odası, oturma odası ve banyo.",
+    "ru": "Две разные спальни, гостиная и ванная в одной жилой концепции.",
+    "az": "Bir yaşayış konsepsiyasında iki fərqli yataq otağı, qonaq otağı və hamam.",
+    "ar": "غرفتا نوم بطابعين مختلفين وغرفة معيشة وحمّام ضمن تصور سكني واحد."
+  },
+  "Varianty vstupnej haly, hlavnej spálne, kuchyne a detskej izby pre súčasné bývanie.": {
+    "en": "Entrance hall, main bedroom, kitchen and children’s room variations for contemporary living.",
+    "tr": "Çağdaş yaşam için giriş holü, ana yatak odası, mutfak ve çocuk odası alternatifleri.",
+    "ru": "Варианты прихожей, главной спальни, кухни и детской для современной жизни.",
+    "az": "Müasir yaşayış üçün giriş zalı, əsas yataq otağı, mətbəx və uşaq otağı variantları.",
+    "ar": "خيارات لبهو المدخل وغرفة النوم الرئيسية والمطبخ وغرفة الأطفال لحياة عصرية."
+  },
+  "Obývacia izba a kuchyňa": {
+    "en": "Living room & kitchen",
+    "tr": "Oturma odası ve mutfak",
+    "ru": "Гостиная и кухня",
+    "az": "Qonaq otağı və mətbəx",
+    "ar": "غرفة المعيشة والمطبخ"
+  },
+  "Otvorená dispozícia, parkety so vzorom rybej kosti, kuchyňa na mieru a akcentové osvetlenie.": {
+    "en": "Open-plan living, herringbone flooring, a bespoke kitchen and accent lighting.",
+    "tr": "Açık plan yaşam alanı, balıksırtı parke, özel tasarım mutfak ve vurgu aydınlatması.",
+    "ru": "Открытая планировка, паркет «ёлочкой», кухня на заказ и акцентное освещение.",
+    "az": "Açıq planlaşdırma, balıqsırtı parket, sifarişlə hazırlanmış mətbəx və vurğulayıcı işıqlandırma.",
+    "ar": "مساحة مفتوحة وأرضية باركيه بنقشة متعرجة ومطبخ مصمم خصيصاً وإضاءة موجهة."
+  },
+  "Spálňa a šatník": {
+    "en": "Bedroom & wardrobe",
+    "tr": "Yatak odası ve giyinme alanı",
+    "ru": "Спальня и гардеробная",
+    "az": "Yataq otağı və qarderob",
+    "ar": "غرفة النوم وغرفة الملابس"
+  },
+  "Detailný pohľad na obklady, osvetlené zrkadlá a vstavané úložné priestory.": {
+    "en": "A closer look at wall finishes, illuminated mirrors and built-in storage.",
+    "tr": "Duvar kaplamalarına, aydınlatmalı aynalara ve gömme depolama alanlarına yakından bakış.",
+    "ru": "Подробный взгляд на отделку стен, зеркала с подсветкой и встроенные системы хранения.",
+    "az": "Divar üzlüklərinə, işıqlı güzgülərə və daxili saxlama sahələrinə yaxından baxış.",
+    "ar": "نظرة قريبة على كسوات الجدران والمرايا المضاءة ووحدات التخزين المدمجة."
+  },
+  "Kúpeľňa v detailoch": {
+    "en": "Bathroom details",
+    "tr": "Banyo detayları",
+    "ru": "Детали ванной",
+    "az": "Hamam detalları",
+    "ar": "تفاصيل الحمّام"
+  },
+  "Textúry obkladov, armatúry a umývadlová zostava na mieru.": {
+    "en": "Tile textures, fittings and a bespoke vanity unit.",
+    "tr": "Seramik dokuları, armatürler ve özel tasarım lavabo ünitesi.",
+    "ru": "Фактуры плитки, сантехника и тумба под раковину на заказ.",
+    "az": "Kafel fakturaları, santexnika və sifarişlə hazırlanmış əlüzyuyan dəsti.",
+    "ar": "ملمس البلاط والتجهيزات ووحدة مغسلة مصممة خصيصاً."
+  },
+  "Zrkadlové plochy, lamely a kamenná dlažba v priestore prvého dojmu.": {
+    "en": "Mirrored surfaces, slatted details and stone flooring in the space that creates the first impression.",
+    "tr": "İlk izlenimi oluşturan alanda aynalı yüzeyler, lameller ve taş döşeme.",
+    "ru": "Зеркальные поверхности, рейки и каменный пол в пространстве первого впечатления.",
+    "az": "İlk təəssürat yaradan məkanda güzgülü səthlər, lamellər və daş döşəmə.",
+    "ar": "أسطح عاكسة وشرائح زخرفية وأرضية حجرية في المساحة التي تصنع الانطباع الأول."
+  },
+  "Náhľad nie je dostupný.": {
+    "en": "Preview unavailable.",
+    "tr": "Önizleme kullanılamıyor.",
+    "ru": "Предпросмотр недоступен.",
+    "az": "Önizləmə mövcud deyil.",
+    "ar": "المعاينة غير متاحة."
+  },
+  "Originál nájdete v archíve.": {
+    "en": "Find the original in the archive.",
+    "tr": "Orijinal dosyayı arşivde bulabilirsiniz.",
+    "ru": "Оригинал находится в архиве.",
+    "az": "Orijinalı arxivdə tapa bilərsiniz.",
+    "ar": "يمكنك العثور على الأصل في الأرشيف."
+  },
+  "PORTFÓLIO / REZIDENČNÉ INTERIÉRY": {
+    "en": "PORTFOLIO / RESIDENTIAL INTERIORS",
+    "tr": "PORTFÖY / KONUT İÇ MEKÂNLARI",
+    "ru": "ПОРТФОЛИО / ЖИЛЫЕ ИНТЕРЬЕРЫ",
+    "az": "PORTFOLİO / YAŞAYIŞ İNTERYERLƏRİ",
+    "ar": "أعمالنا / التصميم الداخلي السكني"
+  },
+  "Priestor.": {
+    "en": "Space.",
+    "tr": "Mekân.",
+    "ru": "Пространство.",
+    "az": "Məkan.",
+    "ar": "المساحة."
+  },
+  "Do posledného detailu": {
+    "en": "Down to the last detail",
+    "tr": "En son ayrıntısına kadar",
+    "ru": "До последней детали",
+    "az": "Son detalına qədər",
+    "ar": "حتى أدق التفاصيل"
+  },
+  "Päť domov. Rôzne pohľady na bývanie.": {
+    "en": "Five homes. Different perspectives on living.",
+    "tr": "Beş ev. Yaşama farklı bakışlar.",
+    "ru": "Пять домов. Разные взгляды на жильё.",
+    "az": "Beş ev. Yaşayışa fərqli baxışlar.",
+    "ar": "خمسة منازل. ورؤى مختلفة للسكن."
+  },
+  "Objavte miestnosti, materiály a atmosféru našich interiérových konceptov.": {
+    "en": "Discover the rooms, materials and atmosphere of our interior concepts.",
+    "tr": "İç mekân konseptlerimizin odalarını, malzemelerini ve atmosferini keşfedin.",
+    "ru": "Откройте комнаты, материалы и атмосферу наших интерьерных концепций.",
+    "az": "İnteryer konsepsiyalarımızın otaqlarını, materiallarını və atmosferini kəşf edin.",
+    "ar": "اكتشف الغرف والمواد والأجواء في تصوراتنا للتصميم الداخلي."
+  },
+  "domov": {
+    "en": "homes",
+    "tr": "ev",
+    "ru": "домов",
+    "az": "ev",
+    "ar": "منازل"
+  },
+  "miestností": {
+    "en": "rooms",
+    "tr": "oda",
+    "ru": "комнат",
+    "az": "otaq",
+    "ar": "غرفة"
+  },
+  "vizualizácií": {
+    "en": "visualisations",
+    "tr": "görselleştirme",
+    "ru": "визуализаций",
+    "az": "vizuallaşdırma",
+    "ar": "صورة تصورية"
+  },
+  "Videoprehliadky": {
+    "en": "Video tours",
+    "tr": "Video turlar",
+    "ru": "Видеотуры",
+    "az": "Video turlar",
+    "ar": "جولات فيديو"
+  },
+  "Galéria projektov": {
+    "en": "Project gallery",
+    "tr": "Proje galerisi",
+    "ru": "Галерея проектов",
+    "az": "Layihə qalereyası",
+    "ar": "معرض المشاريع"
+  },
+  "Vyberte projekt": {
+    "en": "Select a project",
+    "tr": "Proje seçin",
+    "ru": "Выберите проект",
+    "az": "Layihə seçin",
+    "ar": "اختر مشروعاً"
+  },
+  "Všetky projekty": {
+    "en": "All projects",
+    "tr": "Tüm projeler",
+    "ru": "Все проекты",
+    "az": "Bütün layihələr",
+    "ar": "جميع المشاريع"
+  },
+  "Dom 0": {
+    "en": "House 0",
+    "tr": "Ev 0",
+    "ru": "Дом 0",
+    "az": "Ev 0",
+    "ar": "المنزل 0"
+  },
+  "Prezrieť Dom 0": {
+    "en": "View House 0",
+    "tr": "Evi görüntüle: 0",
+    "ru": "Смотреть дом 0",
+    "az": "Evə bax: 0",
+    "ar": "عرض المنزل 0"
+  },
+  "— interiérový koncept": {
+    "en": "— interior concept",
+    "tr": "— iç mekân konsepti",
+    "ru": "— концепция интерьера",
+    "az": "— interyer konsepsiyası",
+    "ar": "— تصور التصميم الداخلي"
+  },
+  "04 miestnosti / 16 vizualizácií": {
+    "en": "04 rooms / 16 visualisations",
+    "tr": "04 oda / 16 görselleştirme",
+    "ru": "04 комнаты / 16 визуализаций",
+    "az": "04 otaq / 16 vizuallaşdırma",
+    "ar": "04 غرف / 16 صورة تصورية"
+  },
+  "Prezrieť projekt": {
+    "en": "View project",
+    "tr": "Projeyi inceleyin",
+    "ru": "Смотреть проект",
+    "az": "Layihəyə baxın",
+    "ar": "عرض المشروع"
+  },
+  "REZIDENČNÝ KONCEPT": {
+    "en": "RESIDENTIAL CONCEPT",
+    "tr": "KONUT KONSEPTİ",
+    "ru": "ЖИЛАЯ КОНЦЕПЦИЯ",
+    "az": "YAŞAYIŞ KONSEPSİYASI",
+    "ar": "تصور سكني"
+  },
+  "Priečinok projektu": {
+    "en": "Project folder",
+    "tr": "Proje klasörü",
+    "ru": "Папка проекта",
+    "az": "Layihə qovluğu",
+    "ar": "مجلد المشروع"
+  },
+  "04 pohľady": {
+    "en": "04 views",
+    "tr": "04 görünüm",
+    "ru": "04 ракурса",
+    "az": "04 görünüş",
+    "ar": "04 مشاهد"
+  },
+  "Zväčšiť: Dom 0": {
+    "en": "Enlarge: House 0",
+    "tr": "Büyüt: Ev 0",
+    "ru": "Увеличить: Дом 0",
+    "az": "Böyüt: Ev 0",
+    "ar": "تكبير: المنزل 0"
+  },
+  "Zavrieť galériu": {
+    "en": "Close gallery",
+    "tr": "Galeriyi kapat",
+    "ru": "Закрыть галерею",
+    "az": "Qalereyanı bağla",
+    "ar": "إغلاق المعرض"
+  },
+  "Vizualizácia interiéru. Ďalšie zábery zobrazíte šípkami; Escape zatvorí galériu.": {
+    "en": "Interior visualisation. Use the arrow keys for more images; Escape closes the gallery.",
+    "tr": "İç mekân görselleştirmesi. Diğer görseller için ok tuşlarını kullanın; Escape galeriyi kapatır.",
+    "ru": "Визуализация интерьера. Стрелки переключают изображения; Escape закрывает галерею.",
+    "az": "İnteryer vizuallaşdırması. Digər şəkillər üçün ox düymələrindən istifadə edin; Escape qalereyanı bağlayır.",
+    "ar": "تصور داخلي. استخدم مفاتيح الأسهم لعرض المزيد من الصور، ومفتاح Escape لإغلاق المعرض."
+  },
+  "Predchádzajúca vizualizácia": {
+    "en": "Previous image",
+    "tr": "Önceki görsel",
+    "ru": "Предыдущее изображение",
+    "az": "Əvvəlki şəkil",
+    "ar": "الصورة السابقة"
+  },
+  "Otvoriť originál ↗": {
+    "en": "Open original ↗",
+    "tr": "Orijinali aç ↗",
+    "ru": "Открыть оригинал ↗",
+    "az": "Orijinalı aç ↗",
+    "ar": "فتح الأصل ↗"
+  },
+  "Nasledujúca vizualizácia": {
+    "en": "Next image",
+    "tr": "Sonraki görsel",
+    "ru": "Следующее изображение",
+    "az": "Növbəti şəkil",
+    "ar": "الصورة التالية"
+  },
+  "V POHYBE": {
+    "en": "IN MOTION",
+    "tr": "HAREKET HÂLİNDE",
+    "ru": "В ДВИЖЕНИИ",
+    "az": "HƏRƏKƏTDƏ",
+    "ar": "بالحركة"
+  },
+  "Prejdite sa": {
+    "en": "Take a walk",
+    "tr": "İç mekânı",
+    "ru": "Прогуляйтесь",
+    "az": "İnteryerə",
+    "ar": "تجوّل"
+  },
+  "interiérom.": {
+    "en": "through the interior.",
+    "tr": "gezin.",
+    "ru": "по интерьеру.",
+    "az": "nəzər salın.",
+    "ar": "داخل المساحة."
+  },
+  "Materiály a detaily": {
+    "en": "Materials and details",
+    "tr": "Malzemeler ve detaylar",
+    "ru": "Материалы и детали",
+    "az": "Materiallar və detallar",
+    "ar": "المواد والتفاصيل"
+  },
+  "zblízka.": {
+    "en": "up close.",
+    "tr": "yakından.",
+    "ru": "вблизи.",
+    "az": "yaxından.",
+    "ar": "عن قرب."
+  },
+  "Vyberte video": {
+    "en": "Select a video",
+    "tr": "Video seçin",
+    "ru": "Выберите видео",
+    "az": "Video seçin",
+    "ar": "اختر فيديو"
+  },
+  "Váš prehliadač nepodporuje prehrávanie videa.": {
+    "en": "Your browser does not support video playback.",
+    "tr": "Tarayıcınız video oynatmayı desteklemiyor.",
+    "ru": "Ваш браузер не поддерживает воспроизведение видео.",
+    "az": "Brauzeriniz videonun oxudulmasını dəstəkləmir.",
+    "ar": "متصفحك لا يدعم تشغيل الفيديو."
+  },
+  "VIDEO / 0": {
+    "en": "VIDEO / 0",
+    "tr": "VİDEO / 0",
+    "ru": "ВИДЕО / 0",
+    "az": "VİDEO / 0",
+    "ar": "فيديو / 0"
+  },
+  "Otvoriť video": {
+    "en": "Open video",
+    "tr": "Videoyu aç",
+    "ru": "Открыть видео",
+    "az": "Videonu aç",
+    "ar": "فتح الفيديو"
+  },
+  "Projektová dokumentácia": {
+    "en": "Project documentation",
+    "tr": "Proje belgeleri",
+    "ru": "Проектная документация",
+    "az": "Layihə sənədləri",
+    "ar": "وثائق المشروع"
+  },
+  "PDF a podklady k projektom": {
+    "en": "PDFs and project materials",
+    "tr": "PDF ve proje dosyaları",
+    "ru": "PDF и материалы проектов",
+    "az": "PDF və layihə materialları",
+    "ar": "ملفات PDF ومواد المشاريع"
+  },
+  "Realizované projekty": {
+    "en": "Completed projects",
+    "tr": "Tamamlanan projeler",
+    "ru": "Реализованные проекты",
+    "az": "Tamamlanmış layihələr",
+    "ar": "المشاريع المنفذة"
+  },
+  "Archív pôvodného portfólia": {
+    "en": "Original portfolio archive",
+    "tr": "Orijinal portföy arşivi",
+    "ru": "Архив исходного портфолио",
+    "az": "İlkin portfolio arxivi",
+    "ar": "أرشيف الأعمال الأصلي"
+  },
+  "KOMPLETNÉ PORTFÓLIO": {
+    "en": "COMPLETE PORTFOLIO",
+    "tr": "TÜM PORTFÖY",
+    "ru": "ПОЛНОЕ ПОРТФОЛИО",
+    "az": "TAM PORTFOLİO",
+    "ar": "جميع الأعمال"
+  },
+  "Každý detail na jednom mieste.": {
+    "en": "Every detail in one place.",
+    "tr": "Her detay tek yerde.",
+    "ru": "Каждая деталь в одном месте.",
+    "az": "Hər detal bir yerdə.",
+    "ar": "كل التفاصيل في مكان واحد."
+  },
+  "Prezrite si pôvodné súbory, ďalšie pohľady a projektové podklady v archíve UrbanEra.": {
+    "en": "Explore original files, additional views and project materials in the UrbanEra archive.",
+    "tr": "UrbanEra arşivinde orijinal dosyaları, ek görselleri ve proje belgelerini inceleyin.",
+    "ru": "Смотрите оригинальные файлы, дополнительные ракурсы и проектные материалы в архиве UrbanEra.",
+    "az": "UrbanEra arxivində orijinal faylları, əlavə görünüşləri və layihə materiallarını nəzərdən keçirin.",
+    "ar": "اطّلع على الملفات الأصلية والمشاهد الإضافية ومواد المشاريع في أرشيف UrbanEra."
+  },
+  "Otvoriť archív": {
+    "en": "Open archive",
+    "tr": "Arşivi aç",
+    "ru": "Открыть архив",
+    "az": "Arxivi aç",
+    "ar": "فتح الأرشيف"
+  },
+  "Z REALIZÁCIE": {
+    "en": "ON SITE",
+    "tr": "UYGULAMADAN",
+    "ru": "С ОБЪЕКТА",
+    "az": "TİKİNTİDƏN",
+    "ar": "من موقع التنفيذ"
+  },
+  "Od prvého kroku": {
+    "en": "From the first step",
+    "tr": "İlk adımdan",
+    "ru": "От первого шага",
+    "az": "İlk addımdan",
+    "ar": "من الخطوة الأولى"
+  },
+  "po hotový detail.": {
+    "en": "to the finishing touch.",
+    "tr": "son dokunuşa.",
+    "ru": "до финальной детали.",
+    "az": "son detala qədər.",
+    "ar": "إلى اللمسة الأخيرة."
+  },
+  "Dokumentácia priebehu": {
+    "en": "Documenting the progress",
+    "tr": "İnşaat ve montaj",
+    "ru": "Документация хода",
+    "az": "Tikinti və quraşdırma",
+    "ar": "توثيق مراحل"
+  },
+  "výstavby a montáže.": {
+    "en": "of construction and installation.",
+    "tr": "sürecinin belgelenmesi.",
+    "ru": "строительства и монтажа.",
+    "az": "işlərinin gedişinin sənədləşdirilməsi.",
+    "ar": "البناء والتركيب."
+  },
+  "Výber fotografií z realizácie zachytáva prácu priamo na stavbe — od prípravy priestorov a inštalácií až po podlahové a povrchové detaily. Fotografie slúžia ako autentický doplnok k vizualizáciám interiérov.": {
+    "en": "Selected site photographs show work in progress, from space preparation and installations to flooring and finishes. They provide an authentic complement to the interior visualisations.",
+    "tr": "Seçili uygulama fotoğrafları, alan hazırlığı ve tesisattan zemin ve yüzey detaylarına kadar şantiyedeki çalışmaları gösterir. Fotoğraflar iç mekân görselleştirmelerini gerçek uygulama görüntüleriyle tamamlar.",
+    "ru": "Выбранные фотографии показывают работу на объекте: от подготовки помещений и инженерных систем до полов и отделки. Они дополняют визуализации интерьеров реальными кадрами.",
+    "az": "Seçilmiş tikinti fotoşəkilləri məkanın hazırlanması və quraşdırmadan döşəmə və səth detallarına qədər işləri göstərir. Onlar interyer vizuallaşdırmalarını real görüntülərlə tamamlayır.",
+    "ar": "تعرض الصور المختارة العمل في الموقع، من تجهيز المساحات والتركيبات إلى الأرضيات والتشطيبات. وهي تكمل التصورات الداخلية بصور حقيقية من التنفيذ."
+  },
+  "REALIZÁCIA / 2025": {
+    "en": "ON SITE / 2025",
+    "tr": "UYGULAMA / 2025",
+    "ru": "РЕАЛИЗАЦИЯ / 2025",
+    "az": "İCRA / 2025",
+    "ar": "التنفيذ / 2025"
+  },
+  "Realizácia ·": {
+    "en": "On site ·",
+    "tr": "Uygulama ·",
+    "ru": "Реализация ·",
+    "az": "İcra ·",
+    "ar": "التنفيذ ·"
+  },
+  "Realizácia interiéru — fotografia": {
+    "en": "Interior construction — photograph",
+    "tr": "İç mekân uygulaması — fotoğraf",
+    "ru": "Реализация интерьера — фотография",
+    "az": "İnteryerin icrası — fotoşəkil",
+    "ar": "تنفيذ التصميم الداخلي — صورة"
+  },
+  "Jazyk stránky": {
+    "en": "Site language",
+    "tr": "Site dili",
+    "ru": "Язык сайта",
+    "az": "Saytın dili",
+    "ar": "لغة الموقع"
+  },
+  "KONTAKT": {
+    "en": "CONTACT",
+    "tr": "İLETİŞİM",
+    "ru": "КОНТАКТЫ",
+    "az": "ƏLAQƏ",
+    "ar": "تواصل معنا"
+  },
+  "Kontakt": {
+    "en": "Contact",
+    "tr": "İletişim",
+    "ru": "Контакты",
+    "az": "Əlaqə",
+    "ar": "التواصل"
+  },
+  "Poďme sa porozprávať": {
+    "en": "Let’s talk",
+    "tr": "Projeniz hakkında",
+    "ru": "Давайте обсудим",
+    "az": "Layihəniz haqqında",
+    "ar": "لنتحدث"
+  },
+  "o vašom projekte.": {
+    "en": "about your project.",
+    "tr": "konuşalım.",
+    "ru": "ваш проект.",
+    "az": "danışaq.",
+    "ar": "عن مشروعك."
+  },
+  "Napíšte nám o svojej nehnuteľnosti, predstave alebo pripravovanom projekte.": {
+    "en": "Tell us about your property, idea or upcoming project.",
+    "tr": "Gayrimenkulünüzü, fikrinizi veya planladığınız projeyi bize anlatın.",
+    "ru": "Расскажите нам о вашей недвижимости, идее или планируемом проекте.",
+    "az": "Əmlakınız, ideyanız və ya planlaşdırdığınız layihə haqqında bizə yazın.",
+    "ar": "أخبرنا عن عقارك أو فكرتك أو مشروعك القادم."
+  },
+  "Telefón": {
+    "en": "Phone",
+    "tr": "Telefon",
+    "ru": "Телефон",
+    "az": "Telefon",
+    "ar": "الهاتف"
+  },
+  "Napíšte nám na WhatsApp": {
+    "en": "Message us on WhatsApp",
+    "tr": "WhatsApp’tan yazın",
+    "ru": "Напишите нам в WhatsApp",
+    "az": "WhatsApp-da bizə yazın",
+    "ar": "راسلنا عبر واتساب"
+  },
+  "E-mail": {
+    "en": "Email",
+    "tr": "E-posta",
+    "ru": "Электронная почта",
+    "az": "E-poçt",
+    "ar": "البريد الإلكتروني"
+  },
+  "Spoznajte UrbanEra": {
+    "en": "Discover UrbanEra",
+    "tr": "UrbanEra’yı keşfedin",
+    "ru": "Откройте UrbanEra",
+    "az": "UrbanEra ilə tanış olun",
+    "ar": "تعرّف على UrbanEra"
+  }
+}
