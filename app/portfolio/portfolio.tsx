@@ -54,7 +54,7 @@ export default function Portfolio() {
           <summary>
             <span className="project-cover"><PortfolioImage id={project.rooms[0].images[0]} label={'Dom 0'+(p+1)+' — interiérový koncept'}/></span>
             <span className="project-card-heading"><strong>Dom 0{p+1}</strong><span>04 miestnosti / 16 vizualizácií</span></span>
-            <span className="project-open">Prezrieť projekt <ArrowRight size={18}/></span>
+            <span className="project-open"><span className="project-label-closed">Prezrieť projekt</span><span className="project-label-open">Zavrieť projekt</span><ArrowRight size={18}/></span>
           </summary>
           <div className="project-detail-heading"><p>{descriptions[p]}</p><a className="text-link" href={'https://drive.google.com/drive/folders/'+project.id} target="_blank" rel="noreferrer">Priečinok projektu <ArrowUpRight size={18}/></a></div>
           {project.rooms.map(room=><section className="room-section" key={room.name}><h3>{roomLabels[room.name]||room.name}<span>04 pohľady</span></h3><div className="room-gallery">{room.images.map((id,i)=><DialogTrigger key={id} className="room-image" onClick={()=>setSelected(items.findIndex(item=>item.id===id))} aria-label={'Zväčšiť: Dom 0'+(p+1)+' — '+(roomLabels[room.name]||room.name)+' '+(i+1)}><PortfolioImage id={id} label={'Dom 0'+(p+1)+' — '+(roomLabels[room.name]||room.name)+' '+(i+1)}/><span><Expand size={18}/></span></DialogTrigger>)}</div></section>)}

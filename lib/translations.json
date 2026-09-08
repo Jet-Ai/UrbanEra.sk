@@ -1006,5 +1006,12 @@
     "ru": "Откройте UrbanEra",
     "az": "UrbanEra ilə tanış olun",
     "ar": "تعرّف على UrbanEra"
+  },
+  "Zavrieť projekt": {
+    "en": "Close project",
+    "tr": "Projeyi kapat",
+    "ru": "Закрыть проект",
+    "az": "Layihəni bağla",
+    "ar": "إغلاق المشروع"
   }
 }
