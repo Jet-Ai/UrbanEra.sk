@@ -2,6 +2,7 @@
 import { useLanguage } from '@/components/language-provider';
 import LanguageSwitcher from '@/components/language-switcher';
 import ContactSection from '@/components/contact-section';
+import BrandLogo from '@/components/brand-logo';
 
 import Image from 'next/image';
 import { ArrowDown, ArrowUpRight, Building2, Layers3, MoveUpRight } from 'lucide-react';
@@ -18,7 +19,7 @@ export default function Home() {
     <>
       <a className="skip-link" href="#obsah">Preskočiť na obsah</a>
       <header id="top" className="site-header">
-        <a className="wordmark" href="#top" aria-label="UrbanEra — úvod">urbanera<span className="brand-dot">.</span></a>
+        <a className="wordmark" href="#top" aria-label="UrbanEra — úvod"><BrandLogo/></a>
         <nav aria-label="Hlavná navigácia">
           <a href="#o-nas">O nás</a><a href="#zameranie">Naše zameranie</a><a href="/portfolio">Portfólio</a><a href="#kontakt">Kontakt</a>
         </nav>
@@ -47,7 +48,7 @@ export default function Home() {
         </section>
         <section className="closing"><p>URBANERA.SK</p><h2>Budúcnosť má<br />svoje miesto<span>.</span></h2><a href="#top" className="closing-link">Späť na začiatok <ArrowUpRight size={24}/></a></section>
       <ContactSection/></main>
-      <footer><a className="wordmark" href="#top">urbanera<span className="brand-dot">.</span></a><p>Nehnuteľnosti. Development. Výstavba.</p><span>© {new Date().getFullYear()} UrbanEra s.r.o.</span></footer>
+      <footer><a className="wordmark" href="#top"><BrandLogo/></a><p>Nehnuteľnosti. Development. Výstavba.</p><span>© {new Date().getFullYear()} UrbanEra s.r.o.</span></footer>
     </>
   );
 }

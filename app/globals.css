@@ -29,3 +29,7 @@ html[dir=rtl] body{font-family:Tahoma,Arial,sans-serif}html[dir=rtl] h1,html[dir
 @media(max-width:900px){.hero-bottom{position:static;margin-top:28px}.site-header{height:auto;min-height:100px;flex-wrap:wrap;gap:18px;padding-top:22px;padding-bottom:22px}.site-header nav{flex-wrap:wrap;row-gap:14px}.language-bar{flex-wrap:wrap;gap:12px}.language-bar nav{flex-wrap:wrap}}
 @media(max-width:680px){.native-projects{grid-template-columns:1fr}.native-project[open]{grid-column:auto}.hero-actions{gap:18px;flex-wrap:wrap}.native-project summary .project-cover img,.native-project[open] summary .project-cover img{height:250px}.project-card-heading{flex-wrap:wrap;gap:10px}.site-header nav{width:100%;order:3;justify-content:space-between}.site-header nav a{min-height:44px;display:inline-flex!important;align-items:center}.site-header .header-link{font-size:.875rem}.hero-bottom{position:static}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+
+/* Approved Urban Form brand artwork. */
+.wordmark{display:inline-flex;align-items:center;flex-shrink:0;line-height:1;letter-spacing:normal}.brand-logo{display:block;width:210px;height:auto;max-width:100%;mix-blend-mode:multiply}footer .brand-logo{width:175px}
+@media(max-width:680px){.site-header .brand-logo{width:160px}footer .brand-logo{width:150px}}
